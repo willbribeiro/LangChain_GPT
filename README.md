@@ -1,3 +1,3 @@
 # LangChain_GPT
 
-## Utilização do pacote LangChain com a API da OpenAI
+## Utilização do framework LangChain com a API da OpenAI
